@@ -17,6 +17,7 @@
 | [entity-naming.md](./entity-naming.md) | 画布 → DSL → 解释器命名对照 |
 | [detailed-design.md](./detailed-design.md) | API、持久化、节点语义 |
 | [business-orchestration-architecture.md](./business-orchestration-architecture.md) | 平台定位与架构背景 |
+| [长周期流程编排底层能力.md](./长周期流程编排底层能力.md) | 长周期编排底层能力总览（Timer / Signal / 人工任务 / 解释器） |
 | [examples/ai-collection-strategy/README.md](../examples/ai-collection-strategy/README.md) | 官方示例场景 |
 | [plugin-development-guide.md](./plugin-development-guide.md) | **插件包开发**（平台托管 Worker） |
 | [plugin-runtime-design.md](./plugin-runtime-design.md) | 插件运行时架构设计 |

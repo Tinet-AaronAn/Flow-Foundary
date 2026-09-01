@@ -8,6 +8,7 @@ FlowFoundry 是当前自研项目代号。本仓库提供流程编排平台（`f
 
 | 场景 | 文档 |
 |------|------|
+| **长周期流程编排底层能力** | [docs/长周期流程编排底层能力.md](docs/长周期流程编排底层能力.md) |
 | **本地调试**（改代码、建模器联调） | [docs/local-development.md](docs/local-development.md) |
 | **插件开发**（打包、上传、K8s runner） | [docs/plugin-development-guide.md](docs/plugin-development-guide.md) |
 | **生产部署**（K8s / Helm，不涉及本地构建镜像） | [docs/production-deployment.md](docs/production-deployment.md) |

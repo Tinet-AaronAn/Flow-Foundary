@@ -164,6 +164,7 @@ FDE：通过 Codex 等 coding agent 生成 Temporal 原生代码，用于复杂�
 | 文档                                                                                     | 内容                                                                   |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [business-orchestration-architecture.md](./business-orchestration-architecture.md)（本文） | 目标定位、背景判断、总体架构、产品关系、落地路线                                             |
+| [长周期流程编排底层能力.md](./长周期流程编排底层能力.md) | 平台 + Temporal 已具备的长周期编排能力清单（解释器、Timer、Signal、人工任务、Gateway、版本与隔离） |
 | [detailed-design.md](./detailed-design.md)                                             | 标识符规范、Workflow 持久化与 API、分层职责细节、节点抽象、Temporal 映射、Registry、异常/幂等/观测/治理 |
 
 

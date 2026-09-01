@@ -46,6 +46,7 @@
 ## 详细文档
 
 - [docs/service-urls.md](docs/service-urls.md) — **服务地址与路径权威表**
+- [docs/长周期流程编排底层能力.md](docs/长周期流程编排底层能力.md) — 长周期流程编排底层能力
 - [docs/local-development.md](docs/local-development.md) — 本地调试
 - [docs/plugin-development-guide.md](docs/plugin-development-guide.md) — **插件开发**
 - [docs/plugin-runtime-design.md](docs/plugin-runtime-design.md) — 插件运行时设计
